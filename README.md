@@ -49,6 +49,6 @@ Abra o aplicativo do whatsapp e leia o QR CODE gerado no terminal e pronto.
 
 ## Documentação
 
-[Documentação](https://platform.openai.com/docs/introduction)
+[Documentação da OpenAi](https://platform.openai.com/docs/introduction)
 
 
