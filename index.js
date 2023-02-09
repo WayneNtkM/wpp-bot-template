@@ -26,7 +26,7 @@ const getDavinciResponse = async (text) => {
     });
     return `${botRes.trim()}`;
   } catch (error) {
-    return `OpenAi Response Error: ${e.response.data.error.message}`
+    return `OpenAi Erro: ${e.response.data.error.message}`
   }
 }
 
@@ -41,7 +41,7 @@ const getDalleResponse = async (text) => {
     const res = await openai.createImage(opts);
     return res.data.data[0].url;
   } catch (error) {
-    return `OpenAi response Error: ${e.response.data.error.message}`
+    return `OpenAi Erro: ${e.response.data.error.message}`
   }
 }
 
@@ -67,7 +67,7 @@ const commands = (client, message) => {
           message.from === process.env.PHONE_NUMBER ? message.to : message.from,
           url,
           imgDes,
-          'Imagem gerada pela IA DALL-E'
+          'Dalle Imagem'
         );
       });
       break;
