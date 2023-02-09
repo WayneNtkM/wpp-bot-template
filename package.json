@@ -1,0 +1,18 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "wpp bot ",
+  "main": "index.ts",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx tsc index.js"
+  },
+  "author": "Wayne Nacle",
+  "license": "ISC",
+  "dependencies": {
+    "node": "^19.6.0",
+    "openai": "^3.1.0",
+    "venom-bot": "^4.3.7"
+  }
+}
