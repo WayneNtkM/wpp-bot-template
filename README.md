@@ -59,4 +59,7 @@ JavaScript
 
 **API**: OpenAi
 
+## Dicas
+
+Para não precisar deixar a máquina ligada 24/7, suba o serviço em uma máquina [EC2](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Categories=categories%23compute&trk=a5a8f3c9-c18a-485c-bbdb-52b795178fbe&sc_channel=ps&s_kwcid=AL!4422!3!490415521566!e!!g!!aws%20ec2&ef_id=CjwKCAiArY2fBhB9EiwAWqHK6sPKux-we5yPC2_tmwFtTz6YN-7R9Ijm6Wi0uwIuFxy8OTpDIJ-SdRoCCTAQAvD_BwE:G:s&s_kwcid=AL!4422!3!490415521566!e!!g!!aws%20ec2&awsf.Free%20Tier%20Types=*all) da AWS.
 
