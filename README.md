@@ -20,8 +20,6 @@ Para rodar esse projeto, você vai precisar adicionar as seguintes variáveis de
 
 ## Instalação
 
-Instale wpp-bot-template com npm
-
 ```bash
   git clone git@github.com:WayneNtkM/wpp-bot-template.git
   cd app-bot-template
