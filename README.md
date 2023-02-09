@@ -45,3 +45,10 @@ Rode o comando no terminal para subir a aplicação
 ```
 
 Abra o aplicativo do whatsapp e leia o QR CODE gerado no terminal e pronto.
+
+
+## Documentação
+
+[Documentação](https://platform.openai.com/docs/introduction)
+
+
