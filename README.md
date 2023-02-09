@@ -51,4 +51,12 @@ Abra o aplicativo do whatsapp e leia o QR CODE gerado no terminal e pronto.
 
 [Documentação da OpenAi](https://platform.openai.com/docs/introduction)
 
+## Stack utilizada
+
+NodeJs,
+[Venom-bot](https://orkestral.io),
+JavaScript
+
+**API**: OpenAi
+
 
