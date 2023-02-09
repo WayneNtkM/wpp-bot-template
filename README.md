@@ -8,7 +8,8 @@ Template para a criação de um bot de whatsapp com integração do GPT-3 da Ope
 
 ## Variáveis de Ambiente
 
-Para rodar esse projeto, você vai precisar adicionar as seguintes variáveis de ambiente no seu .env.example
+Para rodar esse projeto, você vai precisar adicionar as seguintes variáveis de ambiente no seu .env.example.
+Para obter essas chaves, crie uma conta na [OpenAi](https://openai.com/api/) e utilize do plano gratuito.
 
 `OPENAI_KEY`
 
